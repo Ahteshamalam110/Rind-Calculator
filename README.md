@@ -22,10 +22,3 @@ A modern, clean, and responsive **Scientific Calculator** built using **HTML**, 
 - **CSS3** (Flexbox + Grid)
 - **Vanilla JavaScript**
 
-🚀 Getting Started
-
-To run the project locally:
-
-1. **Clone the repository:**
-   git clone https://github.com/yourusername/rind-calculator.git
-
